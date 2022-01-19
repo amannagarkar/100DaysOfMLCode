@@ -11,4 +11,10 @@
   * Calculus and Partial Derivatives 
   * Matrix Operations
   * Data Preprocessing
-  * Feature extractiion
+  * Feature extraction
+
+* Day 2 (18th January 2022):
+  * Regression Models
+  * Gradient Descent Algorithm 
+  * Classification vs Regression
+  * MNIST data classification(Hello World of Machine Learning) using KNN 
