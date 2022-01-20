@@ -18,3 +18,8 @@
   * Gradient Descent Algorithm 
   * Classification vs Regression
   * MNIST data classification(Hello World of Machine Learning) using KNN 
+
+* Day 3 (19th January 2022):
+  * Support Vector Machines
+  * SVM Classification
+  * SVM Regression
